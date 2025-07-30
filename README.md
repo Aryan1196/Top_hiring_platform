@@ -100,4 +100,7 @@
 25. GeeksforGeeks Jobs
     https://www.geeksforgeeks.org/jobs/
  - Tech hiring, coding-based internships
-
+ 
+26. International internships
+     https://opportunitiescorners.com/
+    gain internship in countries like us,japan,belgium, Switzerland (fully funded)
