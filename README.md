@@ -106,11 +106,11 @@
     gain internship in countries like us,japan,belgium, Switzerland (fully funded)
 
 27. We work remotely
-    weworkremotely.com
+    https://weworkremotely.com/
     for remote work
 
-28. remotive.com 
+28. https://remotive.com/
     for remote work
 
-29. wellfound.com
+29. https://wellfound.com/
     for remote work in startups 
