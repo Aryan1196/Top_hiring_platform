@@ -117,3 +117,6 @@
 
 30. https://interninsider.me/
     for internship remove linkedin in filter
+
+31. https://jobsuits.ai/
+for ats score 
